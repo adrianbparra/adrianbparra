@@ -1,4 +1,14 @@
-### Hi there 👋
+![Adrian Parra Technology Banner](/images/Blue_Banner.png)
+# Welcome, I'm Adrian Parra
+
+Passionate software developer creating full stack websites with React, Redux, JavaScript, Node, Express, Postgres, MongoDB, Python and many more that I know or continue to learn. I love learning new languages, frameworks and libraries. Love working in a team environment where I can share and learn new things. 
+
+## What I love
+
+1. Learning new things
+2. Working in a team environment
+3. Creating new things
+
 
 <!--
 **adrianbparra/adrianbparra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
